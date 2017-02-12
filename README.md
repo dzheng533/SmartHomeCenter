@@ -7,6 +7,7 @@
 1. 使用Socket.io框架实现实时推送技术。
 2. 使用express HTTP框架。
 3. 使用mysql驱动访问mysql数据库。
+4. 使用log4js 记录日志。
 
 ## 版本依赖：   
 * nodejs v4.2.1  
