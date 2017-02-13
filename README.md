@@ -17,5 +17,5 @@
 * log4js v1.1.0
 
 ## 作者：
-    昵称：风行浪子（Vincent）
-    blog： [风雨斋](https://bloc.ehangsoft.cn)
+昵称：风行浪子（Vincent）  
+blog： [风雨斋](https://bloc.ehangsoft.cn)
